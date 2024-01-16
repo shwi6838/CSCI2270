@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -Wall -g -rdynamic CMakeFiles/run_tests_1.dir/tests/test_preview.cpp.o CMakeFiles/run_tests_1.dir/code_1/functions.cpp.o -o run_tests_1  -lgtest_main /usr/lib/x86_64-linux-gnu/libgtest.a -lpthread 
